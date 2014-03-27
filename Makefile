@@ -16,8 +16,6 @@ CFLAGS  += -W -Werror -Wextra -Wall
 CFLAGS  += -ansi
 CFLAGS  += -I.
 
-LDFLAGS =
-
 RM      = rm -f
 
 SRCS    = main.c
